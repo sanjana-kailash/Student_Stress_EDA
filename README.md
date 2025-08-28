@@ -60,13 +60,5 @@ VISUALS:
 - Matplotlib, Seaborn
 
 ---
-
-##  Next Steps
-- Apply **statistical tests** (t-tests/ANOVA) to validate relationships  
-- Build a **predictive model** (e.g., logistic regression for high stress vs low stress)  
-- Explore **feature importance** using tree-based models  
-
----
-
 ##  Author
 Created by Sanjana Kailasanathan  to explore data-driven insights into student well-being.  
