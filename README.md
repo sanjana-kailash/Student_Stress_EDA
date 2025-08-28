@@ -50,7 +50,7 @@ VISUALS:
 ## Academic Performance vs Stress
 ![Academic Performance vs Stress](plots/academic_performance.png)
 
-##Correlation 
+## Correlation 
 ![Correlation](plots/Heatmap.png)
 ---
 
