@@ -47,7 +47,7 @@ VISUALS:
 ## Social Support vs Stress
 ![Social Support](plots/social_support.png)
 
-##Academic Performance vs Stress
+## Academic Performance vs Stress
 ![Academic Performance vs Stress](plots/academic_performance.png)
 
 ##Correlation 
